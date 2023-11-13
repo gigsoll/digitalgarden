@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Англійська мова/VNTU - one of the leading univerce in  Ukraine.md","permalink":"/anglijska-mova/vntu-one-of-the-leading-univerce-in-ukraine/"}
+{"dg-publish":true,"permalink":"/konspekti/anglijska-mova/vntu-one-of-the-leading-univerce-in-ukraine/"}
 ---
 
 # VNTU - one of the leading univerce in Ukraine
