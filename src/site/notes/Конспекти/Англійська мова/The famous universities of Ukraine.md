@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Англійська мова/The famous universities of Ukraine.md","permalink":"/anglijska-mova/the-famous-universities-of-ukraine/"}
+{"dg-publish":true,"permalink":"/konspekti/anglijska-mova/the-famous-universities-of-ukraine/"}
 ---
 
 # The famous universities of Ukraine
