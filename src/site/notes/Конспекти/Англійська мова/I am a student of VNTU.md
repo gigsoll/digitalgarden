@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Англійська мова/I am a student of VNTU.md","permalink":"/anglijska-mova/i-am-a-student-of-vntu/"}
+{"dg-publish":true,"permalink":"/konspekti/anglijska-mova/i-am-a-student-of-vntu/"}
 ---
 
 # I am a student of VNTU
