@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Англійська мова/A foreign language in the life of a modern person.md","permalink":"/anglijska-mova/a-foreign-language-in-the-life-of-a-modern-person/"}
+{"dg-publish":true,"permalink":"/konspekti/anglijska-mova/a-foreign-language-in-the-life-of-a-modern-person/"}
 ---
 
 
