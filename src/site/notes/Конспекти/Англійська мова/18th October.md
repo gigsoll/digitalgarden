@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/konspekti/anglijska-mova/18th-october/"}
+{"dg-publish":true,"dg-path":"Англійська мова/18th October.md","permalink":"/anglijska-mova/18th-october/"}
 ---
 
 # Task 25
