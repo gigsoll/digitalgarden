@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/konspekti/anglijska-mova/dialogue/"}
+{"dg-publish":true,"dg-path":"Англійська мова/Dialogue.md","permalink":"/anglijska-mova/dialogue/"}
 ---
 
 # Dialogue about monitors
