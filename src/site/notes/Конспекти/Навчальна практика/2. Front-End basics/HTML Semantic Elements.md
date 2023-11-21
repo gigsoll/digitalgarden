@@ -1,0 +1,101 @@
+---
+{"dg-publish":true,"permalink":"/konspekti/navchalna-praktika/2-front-end-basics/html-semantic-elements/"}
+---
+
+**Semantic elements** allow to specify role of content of the page. This content helps for robots of search engines understand what is main content of web page, what is secondary, what is navigation abe and what is unimportant. Also this is important for accesability of web page. Screen readers can fast understand where is important content, where is navigation etc. 
+# Header
+The `<header>` element is used to define the heading block of document or section. It can be multiple `<header>` elements in one document. 
+## Usage
+1. Define a header of section or webpage
+2. Alternatively can be used to wrap a section contents, search forms or appopriate logos
+## Examples
+```html
+<section class="home_page">
+	<header>
+		<h1>Header here</h1>
+		<p>short paragraph here</p>
+	</header>
+</section>
+```
+
+```html
+<header class="header">
+	<h1 class="logo">
+		<a href="#">
+		<img src="logo.png" alt="logo image">
+		</a>
+	</h1>
+	<nav>
+		<ul>
+			<li>
+				<a href="#">Homepage</a>
+			</li>
+			<li>
+				<a href="#">Contacts</a>
+			</li>
+		</ul>
+	</nav>
+</header>
+```
+# Nav 
+`<nav>` element define navigation links. Here can be links to different web pages or parts of them. Not all links of the document should be here, only the most important. For example here can be main part of the website.
+```html
+<nav class="menu">
+    <ul>
+        <li><a href="http://app.ua/">Homepage</a></li>
+        <li><a href="http://app.ua/about">About company</a></li>
+        <li><a href=" http://app.ua/contact">Contacts</a></li>
+    </ul>
+</nav>
+```
+# Aside 
+`<aside>` element is a section of web page that consists of indirectly releated content. Content around `<aside>` can be considered separated from the content. Most of the time is used to create sidebars containg adverisement usils, social media widgets, groups of navigation elements and other content.
+## Example
+```html
+<article>
+    <h1>HTML online</h1>
+    <p>Online trainings are ...</p>
+    <aside>
+        <p>Effective teaching guidelines are ...</p>
+    </aside>
+    <aside>
+        <p>How to manage time</p>
+    </aside>
+    </article>
+```
+# Main
+The `<main>` element is used for the main content which is related to the main topic of the document. On webpage should be only one `<main>` element and it should contain important and unique information. It should not contain footer, navigation,  header, search forms, site etc.
+## Example
+```html
+<body>
+	<h1>header here</h1>
+	<main>
+		<p>Content inside "<main>" element must have unique</p>
+	</main>
+</body>
+```
+# Section
+The `<section>` element represent general section of the document. Section is a thematic croupong of content typicaly with heading. Section can be made with nested `<article>` elements
+```html
+<section>
+	<h1>Title</h1>
+	<p>Content of the section</p>
+</section>
+```
+# Article
+The `<article>` element defines independent , self contained content. Article element is used to separate specific part of document what have sence by it own. Can separate articles, post on the forums or blog posts. 
+# time
+The `<time>` tag is semantic tag what indicate time. 
+# Footer 
+The `<footer>` element defines the footer of a document or section. It can be multiple footers inside one document and it is allowet to be placed inside of `<nav>` element. Usually footer contein information about the author of the document, links to term of use of the text, copywrite information, etc.
+```html
+<footer>
+    <nav>
+        <ul>
+            <li><a href="http://app.ua/">Home</a></li>
+            <li><a href="http://app.ua/about">About</a></li>
+            <li><a href="mailto:app@app.ua">Contact</a></li>
+        </ul>
+    </nav>
+</footer>
+```
