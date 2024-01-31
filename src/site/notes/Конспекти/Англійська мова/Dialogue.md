@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/konspekti/anglijska-mova/dialogue/"}
 ---
 
+
 # Dialogue about monitors
 -- Hello, I'd like to buy a monitor for programming and watching movies.
 
