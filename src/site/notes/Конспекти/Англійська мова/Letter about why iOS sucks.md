@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/konspekti/anglijska-mova/letter-about-why-i-os-sucks/"}
 ---
 
+
 Hello Dima,
 
 It is a bit strange that I write you a letter instead of DMing in Telegram, but a topic of this importance requires to be separated letter.
