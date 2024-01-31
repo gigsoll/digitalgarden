@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/konspekti/anglijska-mova/18th-october/"}
 ---
 
+
 # Task 25
 
 Web browsers are a type of software widely used by all types of users. Web browser is a very important type of software. No matter who you are – beginner home user, student, developer or power user. Nowadays, people spend most of the time in it while uses their computers. This type of software provides ability to access various web pages and web apps. This helps covers different needs of computer users. Web brother software is very helpful for me, and it is an integral part of my workflow. I use it for study, relax and for work with AI. Modern web browsers provides huge variety of tools. The main and most obvious feature of a web browser is the ability to browse the web. The list of additional features heavily depend on what particular browser you use. The main features, what can be found in all main stream web browsers, are: 
