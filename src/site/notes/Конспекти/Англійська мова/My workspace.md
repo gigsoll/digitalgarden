@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/konspekti/anglijska-mova/my-workspace/"}
 ---
 
+
 # Introduction
 My workplace is not very interesting. It has simple wooden chair and table. I can't say anything interesting about my workspace. The chair has no adjustments in height or angle of back. On the desk, I have a simple pen holder and my laptop. So if my real world workspace is boring, I will speak about my set-up on laptop.
 My laptop – is my main work instrument and workspace. Here I have my all my applications and desktop settings. So in this text I want to speak about how I set up my virtual workspace.
