@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/konspekti/anglijska-mova/vntu-one-of-the-leading-univerce-in-ukraine/"}
 ---
 
+
 # VNTU - one of the leading univerce in Ukraine
 VNTU, also known as Vinnytsia National Technical University play vital role in providing great possibilities for education and self development for students from Ukraine and another world Counties. Universe contains 8 educational departments that cover up large areas of knowlage like automatisation, Engeniring, Programming, Managment, Ecology, Radio Electronic and Physyc.
 
