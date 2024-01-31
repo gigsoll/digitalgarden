@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/konspekti/anglijska-mova/the-famous-universities-of-ukraine/"}
 ---
 
+
 # The famous universities of Ukraine
 Acording to wikipedia Ukraine has 1,6 million people with higther education. This is huge amount of people, what means that all this people must study in some places. So in this speech we going to speak about 3 greatest and most known universities of Ukraine. This universes were chosed based on my personal expirience, and it means than this is pretty subjective speech.
 
