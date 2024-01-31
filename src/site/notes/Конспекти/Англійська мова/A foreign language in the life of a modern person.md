@@ -3,6 +3,7 @@
 ---
 
 
+
 Speaking about foreign languages we should pay attention to english. English is very important in our lives. Every time when we want to speak about english we says this words. This words is thuth, and in this speach we going to speak about why this quote have so much sence. 1,5 trillion people speaks english in all corners of our planet. They use this languge in all parts of theys work and free time. 
 
 We live in none english-spoken country but this doesn't means that you cant use english in your live. First of all you can consume content in internet.  Huge amount of films, books, games, shows, videos, songs, comics  can cover up all your intereses. I try to show you adwantages of using this language in modern world.
