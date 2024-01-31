@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/konspekti/anglijska-mova/i-am-a-student-of-vntu/"}
 ---
 
+
 # I am a student of VNTU
 I am a student of Vinnytsia National Technical University.  This year, admission to the university was unusual because of the Russian invasion   in Ukraine. Therefore, I had to take NMT (National Multisubject test). There was no choice, so I passed exams of Ukrainian language, mathematics and history of Ukraine.
 
